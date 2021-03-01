@@ -7,3 +7,5 @@
 </p>
 
 <a href="https://github.com/ahmetanilsari"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetanilsari&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" /></a>
+<a href="https://github.com/ahmetanilsari"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetanilsari&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10&hide=asp.net" /></a>
+
