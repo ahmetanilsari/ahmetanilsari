@@ -1,3 +1,5 @@
+<div id="header" align="center">
+  
 <h1 align='center'> Hi there 👋, I'm Ahmet Anıl Sarı 🧑🏻‍💻</h1>
 
 <p align='center'>
@@ -8,24 +10,24 @@
  <a href="mailto:ahmetanilsari@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" /></a>
 </p>
 
-<h3 align='center'> Knowledge 🧠 </h3>
- <p align='center'>
- <img src="https://img.shields.io/badge/-Java-DF2B2D.svg?&style=for-the-badge&logo=java&logoColor=white&style=flat" />&nbsp;
- <img src="https://img.shields.io/badge/-Spring%20-8BC34A.svg?&style=for-the-badge&logo=spring&logoColor=white&style=flat" />&nbsp;
- <img src="https://img.shields.io/badge/-JavaScript%20-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white&style=flat" />&nbsp;
- <img src="https://img.shields.io/badge/-HTML5%20-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white&style=flat" />&nbsp;
- <img src="https://img.shields.io/badge/-CSS3%20-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white&style=flat" />&nbsp;
- <img src="https://img.shields.io/badge/-Thymeleaf%20-005F0F.svg?&style=for-the-badge&logo=thymeleaf&logoColor=white&style=flat" />&nbsp;
- <img src="https://img.shields.io/badge/-ReactJs%20-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white&style=flat" />&nbsp;
- <img src="https://img.shields.io/badge/-MySQL%20-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white&style=flat" />&nbsp;
- <img src="https://img.shields.io/badge/-Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white&style=flat" />&nbsp;
- <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-FE315D.svg?&style=for-the-badge&logo=intellijidea&logoColor=white&style=flat" />&nbsp;
+---
+### Technology Stack
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,mysql,postgresql,react,html,css,javascript,idea,eclipse)](https://skillicons.dev)
+
+---
+### GitHub Stats
   
-<a href="https://github.com/ahmetanilsari"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetanilsari&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" /></a>
-<a href="https://github.com/ahmetanilsari"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetanilsari&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10&hide=asp.net" /></a>
+<div align="height">
+  <a href="https://github.com/ahmetanilsari">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmetanilsari&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetanilsari&theme=dark&layout=compact"/>
+</div>
+ 
+ ---
 
 
 <p align="center">
-  Visitor Count<br>
+  Visitor Count<br><br>
   <img src="https://profile-counter.glitch.me/ahmetanilsari/count.svg" />
 </p>
