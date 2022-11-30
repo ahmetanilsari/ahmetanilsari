@@ -16,16 +16,14 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,python,mysql,postgresql,react,html,css,javascript,idea,eclipse)](https://skillicons.dev)
 
 ---
-### GitHub Stats
-  
+
 <div align="height">
   <a href="https://github.com/ahmetanilsari">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmetanilsari&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmetanilsari&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetanilsari&theme=dark&layout=compact"/>
 </div>
  
  ---
-
 
 <p align="center">
   Visitor Count<br><br>
